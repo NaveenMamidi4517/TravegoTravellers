@@ -1,0 +1,9 @@
+id,Bus_type,Distance,Price
+1,Sleeper,350,770
+2,Sleeper,500,1100
+3,Sleeper,600,1320
+4,Sleeper,700,1540
+5,Sleeper,1000,2200
+6,Sleeper,1200,2640
+7,Sleeper,1500,2700
+8,Sitting,500,620
